@@ -165,9 +165,9 @@ export default class Quote extends Component {
 }
 ```
 
-## Vérifie dans ton navigateur que les valeurs sont bien affichées.
+ Vérifie dans ton navigateur que les valeurs sont bien affichées.
 
-# Challenge
+## Challenge
 Créer et afficher un composant Voyage
 
 * Créer une nouvelle application React nommée my-travels grâce à create-react-app
